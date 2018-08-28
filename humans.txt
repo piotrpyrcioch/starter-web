@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Piotr Pyrcioch	piotr.pyrcioch@gmail.com	@pyrcioch
 
 # THANKS
 
